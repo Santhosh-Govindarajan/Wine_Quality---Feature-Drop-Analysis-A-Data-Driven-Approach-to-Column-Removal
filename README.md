@@ -1,6 +1,6 @@
-# Wine_Quality---Whether-to-remove-column-or-not-
 
-# Feature Drop Analysis – A Data-Driven Approach to Column Removal
+
+#Wine Quality -  Feature Drop Analysis – A Data-Driven Approach to Column Removal
 
 ## 📌 Overview
 
